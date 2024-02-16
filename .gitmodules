@@ -1,0 +1,12 @@
+[submodule "AdventOfCode2023"]
+	path = AdventOfCode2023
+	url = https://github.com/NicolaWidmer/AdventOfCode2023
+[submodule "AdventOfCode2022"]
+	path = AdventOfCode2022
+	url = https://github.com/NicolaWidmer/AdventOfCode2022
+[submodule "AdventOfCode2021"]
+	path = AdventOfCode2021
+	url = https://github.com/NicolaWidmer/AdventOfCode2021
+[submodule "AdventOfCode2020"]
+	path = AdventOfCode2020
+	url = https://github.com/NicolaWidmer/AdventOfCode2020
