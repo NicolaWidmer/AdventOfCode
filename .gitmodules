@@ -10,3 +10,6 @@
 [submodule "AdventOfCode2020"]
 	path = AdventOfCode2020
 	url = https://github.com/NicolaWidmer/AdventOfCode2020
+[submodule "AdventOfCode2024"]
+	path = AdventOfCode2024
+	url = https://github.com/NicolaWidmer/AdventOfCode2024
